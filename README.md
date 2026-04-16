@@ -1,5 +1,7 @@
-🚀 Propuesta de Perfil: "The Engine Architect"
+
 Hola, soy Martín Cajiao 🐎
+
+
 Software Architect & AI Engineer | Especialista en IA Local-First y Sistemas de Alto Rendimiento
 
 🔭 Desarrollando: BlackHorse Engine, un motor de IA soberana 100% offline que combina la potencia de Rust, C++ (llama.cpp) y Python.
