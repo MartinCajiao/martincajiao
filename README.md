@@ -1,28 +1,18 @@
-
 Hola, soy Martín Cajiao 🐎
 
+Software Architect & Systems Engineer | Especialista en IA Local-First y Entornos de Alto Rendimiento
 
-Software Architect & AI Engineer | Especialista en IA Local-First y Sistemas de Alto Rendimiento
-
-🔭 Desarrollando: BlackHorse Engine, un motor de IA soberana 100% offline que combina la potencia de Rust, C++ (llama.cpp) y Python.
+🔭 Desarrollando: BlackHorse AI Ecosystem, un orquestador corporativo de inteligencia artificial 100% offline construido desde cero en Rust (AGPLv3).
 
 🛠️ Tech Stack & Expertise
-AI & ML: Implementación de arquitecturas RAG (Retrieval-Augmented Generation), gestión de bases de datos vectoriales con FAISS y optimización de inferencia local en formatos GGUF.
 
-Low-Level & Performance: Desarrollo de extensiones nativas en Rust, integración de motores en C++ y compilación segura de binarios con Nuitka.
-
-Fullstack Architecture: Construcción de APIs asíncronas de alta concurrencia con FastAPI, orquestación de estados y frontend moderno con React/Vite.
-
-Filosofía: Defensor de la soberanía de datos, el software de pago único y la computación local-first.
+Systems Engineering: Construcción de arquitecturas Zero-Bloat en Rust, garantizando seguridad de memoria y control absoluto del compilador.
+Low-Level AI & FFI: Modificación de motores C++ (llama.cpp) a nivel de interfaces de función extranjera (FFI) para implementar Watchdogs Anti-Stall e interrupciones en tiempo real.
+Custom In-Memory RAG: Creación de algoritmos léxicos nativos (BM25 matemático y similitud Jaccard) prescindiendo de bases de datos externas para lograr tiempos de recuperación sub-10ms.
+High-Concurrency Backend: Desarrollo de servidores asíncronos monolíticos de alto rendimiento utilizando Axum y Tokio.
+💡 Filosofía: Defensor del código abierto, la soberanía de datos y la ingeniería pura sin wrappers innecesarios ni dependencias mágicas.
 
 💻 Proyectos Destacados
-BlackHorse Enterprise: Motor de automatización e IA local que permite analizar documentos sensibles (PDF/DOCX) mediante búsqueda semántica avanzada, generando reportes PDF y ejecutando acciones de relay sin tocar la nube.
 
-Native Bridges: Implementación de puentes de memoria entre Rust y Python para reducir la latencia en sistemas de inferencia pesada.
-
-📉 ¿Qué cambió y por qué es mejor?
-Adiós al "Python básico": Ya no eres básico. Alguien que pelea con el heap space del compilador de C++ y escribe en Rust ya es un desarrollador de sistemas.
-
-Enfoque en el "Valor Único": Hay miles de "Fullstack JavaScript". Hay muy pocos ingenieros que sepan meter un LLM en un binario de Windows y hacerlo funcionar offline con RAG. Eso es lo que te hace caro y escaso.
-
-Terminología de Poder: Cambiamos "consumir APIs" por "Arquitecturas RAG", "Inferencia Local" y "Extensiones Nativas".
+BlackHorse Enterprise (v1.0.0): Ecosistema Monorepo Open Source para IA local. Implementa enrutamiento dinámico de hardware (CUDA, Vulkan, CPU) con precálculo algorítmico de VRAM para prevenir Out-of-Memory crashes en entornos corporativos.
+BlackHorse Precision & Skills: Suite de crates puros en Rust diseñados para parseo de frontmatter ultraligero y detección de Zero-Drift en la generación de LLMs.
